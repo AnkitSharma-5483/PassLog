@@ -1,0 +1,18 @@
+@import "tailwindcss";
+
+@layer components{
+  .mycontainer{
+    @apply container px-40 py-16 mx-auto;
+  }
+}
+
+/* Hide browser's default password reveal icons */
+input::-ms-reveal,
+input::-ms-clear {
+  display: none;
+}
+
+input::-webkit-credentials-auto-fill-button,
+input::-webkit-password-toggle-button {
+  display: none;
+}
