@@ -2,7 +2,7 @@ PassLOG is a simple web-based password manager that helps users securely store a
 
 The project is built using React (frontend) and Node.js (backend) with a clean UI and interactive notifications for a smooth user experience.
 
-Features
+#Features
 
 Save website credentials
 
@@ -16,7 +16,7 @@ Toggle password visibility
 
 Toast notifications for actions
 
-Tech Stack
+#Tech Stack
 
 React (Vite)
 
